@@ -5,3 +5,4 @@ I used Micrososft Visual Studio Code to create the webpages
 I ran my html tags on google chrome
 this project shows clearly webpages created and also projects created
 this project has links to the emails which l work with
+Live project netlify link https://iridescent-basbousa-92f93c.netlify.app/
